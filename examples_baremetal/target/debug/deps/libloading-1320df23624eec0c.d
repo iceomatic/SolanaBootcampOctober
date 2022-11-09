@@ -1,0 +1,11 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/libloading-1320df23624eec0c.rmeta: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/libloading-1320df23624eec0c.d: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs
+
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/lib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/mod.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/mod.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/os/unix/consts.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/changelog.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/util.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/libloading-0.6.7/src/error.rs:

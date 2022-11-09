@@ -1,0 +1,14 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/scroll-4e422c8ce641cbba.rmeta: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md
+
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/scroll-4e422c8ce641cbba.d: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md
+
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/ctx.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pread.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/pwrite.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/greater.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/error.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/endian.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/leb128.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/lesser.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/scroll-0.10.2/src/../README.md:

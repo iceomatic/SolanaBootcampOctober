@@ -1,0 +1,13 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/tokio_uds-5c0367556cfced6a.rmeta: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs
+
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/tokio_uds-5c0367556cfced6a.d: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs
+
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/lib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/datagram.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/frame.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/incoming.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/listener.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/recv_dgram.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/send_dgram.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/stream.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.7/src/ucred.rs:

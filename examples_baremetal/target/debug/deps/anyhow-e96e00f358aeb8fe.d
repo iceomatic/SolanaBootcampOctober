@@ -1,0 +1,15 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/anyhow-e96e00f358aeb8fe.rmeta: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/backtrace.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/chain.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/context.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ensure.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/error.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/fmt.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/kind.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/macros.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ptr.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/wrapper.rs
+
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/anyhow-e96e00f358aeb8fe.d: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/backtrace.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/chain.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/context.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ensure.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/error.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/fmt.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/kind.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/macros.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ptr.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/wrapper.rs
+
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/lib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/backtrace.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/chain.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/context.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ensure.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/error.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/fmt.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/kind.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/macros.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/ptr.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.54/src/wrapper.rs:

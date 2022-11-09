@@ -1,0 +1,1 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/bpfel-unknown-unknown/release/counter.so: /Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/example2-counter/rust/src/lib.rs

@@ -1,0 +1,13 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/tracing-c945521dc5f615df.rmeta: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/macros.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/dispatcher.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/field.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/instrument.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/level_filters.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/span.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/stdlib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/subscriber.rs
+
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/debug/deps/tracing-c945521dc5f615df.d: /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/lib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/macros.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/dispatcher.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/field.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/instrument.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/level_filters.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/span.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/stdlib.rs /Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/subscriber.rs
+
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/lib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/macros.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/dispatcher.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/field.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/instrument.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/level_filters.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/span.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/stdlib.rs:
+/Users/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.31/src/subscriber.rs:

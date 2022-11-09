@@ -1,0 +1,1 @@
+/Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/target/bpfel-unknown-unknown/release/helloworld.so: /Users/orion/Documents/GitHub/SolanaBootcampOctober/examples_baremetal/example1-helloworld/rust/src/lib.rs
