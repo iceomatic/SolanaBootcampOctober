@@ -10,10 +10,16 @@ impl Processor {
         _accounts: &[AccountInfo],
         instruction_data: &[u8],
     ) -> ProgramResult {
-        // turns bytecode into instrucion which contains function to invoke
+        // turns bytecode into instruction which contains function to invoke
         let instruction = Instruction::unpack(instruction_data)?;
 
         msg!("[processor] Received: {:?}", instruction);
+        match instruction {
+            instruction::FunctionA => function_a,
+            instruction::FunctionB => function_b,
+            _ => Err(ProgramError::BorshIoError("Invalid Function Input".to_string(),))
+        }
+        Ok(())
         // TODO write a match statement to call the relevant function
         // e.g. if Instruction::FunctionA , then call function_a
         // return an appropriate ProgramResult

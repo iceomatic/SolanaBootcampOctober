@@ -4,4 +4,8 @@ use solana_program::msg;
 // function_a and function_b
 // within each function print a message to the console to indicate which function was called
 
+pub fn function_a() -> {
+    msg!("Function A was called")
+}
+
 
